@@ -1,10 +1,6 @@
 # Tecnologia aplicada
 Bitácora del curso
  
- # Bitácora de lectura
-
-Este repositorio contiene reseñas de libros.
-
 ## Libros
 
 - [Libro 1](libro-01.md)
