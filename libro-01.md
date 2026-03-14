@@ -19,23 +19,28 @@ Autor: Graham Harman
     - La idea de contemplación absulta del "yo" y que permite el reflejo de sí mismo ( del "yo") en cualquiera sea el objeto observado.
     - Sé sueve, se aniquilado
     - Performatividada es distinta de Ejecución. La performatividad es un concepto inventado para pelear con cualqiuer idea nominalista (niega los concpetos universales y como doctrina filoófica sostinene que solo existen objetos partiulares) fabricada desde el exterior por una serie de acciones públicas. BUscar en libro de Performance. 
-- Los objetos poseen una una interioridad recóndita y propia ( La caja roja de Ortega y gasset)
--  La función del lenguaje es traducir la toda percepción y relación, lo oscuro e interior en algo tangible y exterior. EL lenguaje mismo sostiene la infinitud de las cosas.
--  El arte en cambio menciona las cosas sin hacer uso del sistema de signos que narre las cosas, sino que se presta en ejecución. La estética deviene de esta experiencia que propone el ate.
+    - Los objetos poseen una una interioridad recóndita y propia ( La caja roja de Ortega y gasset)
+    - La función del lenguaje es traducir la toda percepción y relación, lo oscuro e interior en algo tangible y exterior. EL lenguaje mismo sostiene la infinitud de las cosas.
+    -  El arte en cambio menciona las cosas sin hacer uso del sistema de signos que narre las cosas, sino que se presta en ejecución. La estética deviene de esta experiencia que propone el arte.
+    -  
 ## Citas
 
 > "Su distinción (José Ortega y Gasset) entre imágenes y realidad ejecutante,
 una distinción nueva por completo, muestra el camino hacia mi propia dis
 tinción entre objetos sensibles y reales, y el rol clave del lenguaje metafórico
 para proveer de un acceso siempre indirecto a lo real."
+
 > "Clarificar la naturaleza de la metáfora, el rol exacto del estilo en las obras de arte o establecer los límites entre los dominios estético y no estético."
+
 > "Mi hipótesis es que la vida misma de las cosas, esas cosas que han venido
 siendo aplazadas del interés filosófico en los úl t imos
 iempos, tiene una estructura estética."
+
 > [El pronombre ''yo",
 dice Or tega y Gasset, no le pertenece con exclusividad a
 los seres vivos, "sino a todo (hombres, cosas, situaciones),
 en cuanto verificándose, siendo, ejecutándose".]
+
 ## Comentario personal
 
 Aquí escribiré mi reseña personal.
