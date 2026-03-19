@@ -57,8 +57,27 @@ no es más que un modo específico de descrear las imágenes
 y recrearlas como cosas - sentimientos."
 
 ## Comentario personal
-
 Aquí escribiré mi reseña personal.
+
+
+## Descripción Cualidades
+
+Luciana
+Soy estudiante de artes visuales
+Tengo un tatuaje en el brazo
+mido 1.57
+tengo 25 años
+Mi paladar es alto 
+Soy asmática y fumadora
+Me gusta el color morado
+Ocupo lentes
+Me gusta cantar 
+Me enojan estas cosas
+
+
+
+
+
 
 # Notas 
 
