@@ -4,4 +4,4 @@ Bitácora del curso
 ## Libros
 
 - [Graham Harman](libro-01.md)
-- [Descripción](descripción.md)
+
