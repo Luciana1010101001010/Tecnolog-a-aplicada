@@ -5,6 +5,7 @@ Autor: Graham Harman
 ## Resumen
 
 
+![08ceebde-9939-4e6d-8414-4c8fd2156258](https://github.com/user-attachments/assets/dd5ada0f-cbab-4aa6-beb5-25dde76e15ba)
 
 ## Ideas principales
 
