@@ -74,7 +74,9 @@ Ocupo lentes
 Me gusta cantar 
 Me enojan estas cosas
 
+Gnoseología Estética . Los objetos se ven afectados entre sí, hay que entender que los objetos tiene una experiencia estética entre objetos, pues se ven afectados unos por los otros. Los objetos se ven afectados por las cualidades de los objetos y cada uno tiene una percepción del otro. 
 
+Graham utiliza la idea de escencia 
 
 
 
