@@ -29,12 +29,21 @@ objeto I
 *Está en un pasillo muy transitado
 
 Objeto II
-Es largo
-Es cerrado por un lado y abierto por otro
-Abriga ña extremidad del cuerpo
-Tiene un patrón de colores naranja y rojo
-Tiene una mancha en el centro de color negro
-Es de género
-Tiene hilachas
-Tiene un pelo pegado
-Es elástico
+
+*Es largo
+
+*Es cerrado por un lado y abierto por otro
+
+*Abriga ña extremidad del cuerpo
+
+*Tiene un patrón de colores naranja y rojo
+
+*Tiene una mancha en el centro de color negro
+
+*Es de género
+
+*Tiene hilachas
+
+*Tiene un pelo pegado
+
+*Es elástico
