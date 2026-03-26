@@ -9,14 +9,23 @@ mateo cereceda y gabriela inostrosa
 
 objeto I
 *Es relativamente alto 
+
 *tiene 4 estantes
+
 *sobre él hay dos flores y un florero
+
 *Es de madera
+
 *Tiene dos puertas en el final
+
 *Guarda/ Soporta/ Almacena
+
 *Tiene cuatro sacados ornamentales en las orillas
+
 *Contiene objetos delicados
+
 *Epecíficamente dispone de objetos simbólicos, decorativos y cotidianos
+
 *Está en un pasillo muy transitado
 
 Objeto II
