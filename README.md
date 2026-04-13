@@ -1,5 +1,5 @@
 # Tecnologia aplicada
-Bitácora del curso
+Bitácora del curso...
  
 ## Libros
 
