@@ -12,42 +12,26 @@ mateo cereceda y gabriela inostrosa
 
 
 ### Objeto I
+
 * Es relativamente alto 
-
-*tiene 4 estantes
-
-*sobre él hay dos flores y un florero
-
-*Es de madera
-
-*Tiene dos puertas en el final
-
-*Guarda/ Soporta/ Almacena
-
-*Tiene cuatro sacados ornamentales en las orillas
-
-*Contiene objetos delicados
-
-*Epecíficamente dispone de objetos simbólicos, decorativos y cotidianos
-
-*Está en un pasillo muy transitado
+* tiene 4 estantes
+* sobre él hay dos flores y un florero
+* Es de madera
+* Tiene dos puertas en el final
+* Guarda/ Soporta/ Almacena
+* Tiene cuatro sacados ornamentales en las orillas
+* Contiene objetos delicados
+* Epecíficamente dispone de objetos simbólicos, decorativos y cotidianos
+* Está en un pasillo muy transitado
 
 ### Objeto II
  
-*Es largo
-
-*Es cerrado por un lado y abierto por otro
-
-*Abriga ña extremidad del cuerpo
-
-*Tiene un patrón de colores naranja y rojo
-
-*Tiene una mancha en el centro de color negro
-
-*Es de género
-
-*Tiene hilachas
-
-*Tiene un pelo pegado
-
-*Es elástico
+* Es largo
+* Es cerrado por un lado y abierto por otro
+* Abriga ña extremidad del cuerpo
+* Tiene un patrón de colores naranja y rojo
+* Tiene una mancha en el centro de color negro
+* Es de género
+* Tiene hilachas
+* Tiene un pelo pegado
+* Es elástico
