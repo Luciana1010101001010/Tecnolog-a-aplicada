@@ -6,8 +6,12 @@ Estética relacional es una experie3ncia que se completa una vez que hay una par
 tercera mes: la idea de explicar los objetos sin recurrir a las disciplinas humanistas y cintíficas, más bien, busca aplanar el mundo. Objeto cualuiqer cosa con una especie de realidad unitaria. -
 DISEÑO PARAMÉTRICO BLENDER
 mateo cereceda y gabriela inostrosa 
+## Tarea
 
-objeto I
+### Descripción de obras
+
+
+### Objeto I
 *Es relativamente alto 
 
 *tiene 4 estantes
@@ -28,8 +32,8 @@ objeto I
 
 *Está en un pasillo muy transitado
 
-Objeto II
-
+### Objeto II
+ 
 *Es largo
 
 *Es cerrado por un lado y abierto por otro
