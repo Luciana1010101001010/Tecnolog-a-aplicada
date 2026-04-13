@@ -12,7 +12,7 @@ mateo cereceda y gabriela inostrosa
 
 
 ### Objeto I
-*Es relativamente alto 
+* Es relativamente alto 
 
 *tiene 4 estantes
 
