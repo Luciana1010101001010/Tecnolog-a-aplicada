@@ -13,6 +13,7 @@
 
 
 ## Base de datos. 
+### Reflexiones-Flujo de pensamiento
   Aquí se encuentra unh estudio con la tabla de distancias recorridas. La distancia es longitudinal pues es de la costa hacia la cordillera. Se toman las medidas sobre el nivel del mar.  No me gusta la idea de tomar datos desde la app, porque no me gustan. No me interesan los datos que puede captar mi celular. Por lo tanto, decidí buscar a través de chat gpt alguna base de datos con los recorridos de la cultura diaguita. 
   
   La IA me comenta que no existe una base de datos con los recorrido exactos porque la población diguita no dejó un camino tan claro además de ciertos indicios de asentamientos. Así, preferí responder a la siguiente pregunta para desarrollar una tabla con datos. ¿Cómo puedo medir o "datear"
@@ -39,10 +40,13 @@ en el camino se dejan cosas... recorrido es a recuerdo/a vestigio/a remanente/a 
 
 yacen a 650 metros sobre el mar. descansan a 650 metros sobre el mar. Pero cómo hago una imagen de esto?
 
-//Cómo lo hago en processing: Puedo dibujar con puntos el trayecto utilizando los datos de la tabla. es decir, quiero que los puntos dibuje un trayecto según la cumulación de puntos que hayan en el mata. La cantiada de puntos corresponden los datos de altitud. Si hay 30 puntos es porque corresponden a no me gustó la idea//
+### IDEA FINAL1.
 
-IDEA FINAL1.
+"Mientras más cerca estás de la tumba más visible se hace la imagen, pero hay que esperara para llegar ahí"
 
-Mientras más cerca estás de la tumba más visible se hace la imagen, pero hay que esperara para llegar ahí
+* Bajo esa lógica, se graba un video de unas manos escarbando la tierra. 
+* Los datos respecto a la distancia sobre el nivel del mar, corresponden a la nitidez de la imagen.
+* mientras menor sea el valor, mayor es lo borroso del video. A mayor nivel del mar, más definida será la imagen. 
+
 ## Maqueta de visualización
-recorrido + muerte: metáfora 
+
