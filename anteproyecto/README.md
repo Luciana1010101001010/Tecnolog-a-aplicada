@@ -3,6 +3,8 @@
 ## Definir Objeto de estudio.
   Recorrido de la cultura diaguita desde coquimbo hacia el valle del elqui. Cuando chica solía pasar mucho tiempo en el valle del elqui.  
   El lugar donde habitaba estaba al lado de una tumba diaguita, entre los cerros. 
+ 
+  
   ![Distancia del recorrido coquimbo a la tumba](mapa distancia.png) por laguna razón no funciona.
 
 
@@ -41,12 +43,8 @@ en el camino se dejan cosas... recorrido es a recuerdo/a vestigio/a remanente/a 
 yacen a 650 metros sobre el mar. descansan a 650 metros sobre el mar. Pero cómo hago una imagen de esto?
 
 ### IDEA FINAL1.
-
-"Mientras más cerca estás de la tumba más visible se hace la imagen, pero hay que esperara para llegar ahí"
-
-* Bajo esa lógica, se graba un video de unas manos escarbando la tierra. 
-* Los datos respecto a la distancia sobre el nivel del mar, corresponden a la nitidez de la imagen.
-* mientras menor sea el valor, mayor es lo borroso del video. A mayor nivel del mar, más definida será la imagen. 
+Hice un recorrido con las distnacias y las alturas geográficas desde la costa de coquimbo hasta donde se encontraba vestigios de los acentamientos diaguitas. Puse esa infromación en processign y luego hice un poema que se construye en el recorrido. 
 
 ## Maqueta de visualización
+
 
