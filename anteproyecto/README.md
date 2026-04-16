@@ -46,5 +46,7 @@ yacen a 650 metros sobre el mar. descansan a 650 metros sobre el mar. Pero cómo
 fijé un recorrido con las distnacias y las alturas geográficas desde la costa de coquimbo hasta donde se encontraba vestigios de los acentamientos diaguitas. Puse esa infromación en processign y luego hice un poema que se construye en el recorrido. 
 
 ## Maqueta de visualización
+Visualización basada en un recorrido entre Coquimbo y el Valle del Elqui.
 
+El sistema utiliza datos de distancia y altura para construir una secuencia de palabras en movimiento.
 
