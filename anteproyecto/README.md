@@ -43,7 +43,7 @@ en el camino se dejan cosas... recorrido es a recuerdo/a vestigio/a remanente/a 
 yacen a 650 metros sobre el mar. descansan a 650 metros sobre el mar. Pero cómo hago una imagen de esto?
 
 ### IDEA FINAL1.
-Hice un recorrido con las distnacias y las alturas geográficas desde la costa de coquimbo hasta donde se encontraba vestigios de los acentamientos diaguitas. Puse esa infromación en processign y luego hice un poema que se construye en el recorrido. 
+fijé un recorrido con las distnacias y las alturas geográficas desde la costa de coquimbo hasta donde se encontraba vestigios de los acentamientos diaguitas. Puse esa infromación en processign y luego hice un poema que se construye en el recorrido. 
 
 ## Maqueta de visualización
 
