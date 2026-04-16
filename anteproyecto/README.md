@@ -2,7 +2,7 @@
 
 ## Definir Objeto de estudio.
   Recorrido de la cultura diaguita desde coquimbo hacia el valle del elqui. Cuando chica solía pasar mucho tiempo en el valle del elqui.  
-  El lugar donde habitaba estaba al lado de una tumba diaguita, entre los cerros. 
+  El lugar donde habitaba estaba al lado de una tumba diaguita, entre los cerros. 29°59'24.8"S 70°40'53.9"W
  
   
   ![Distancia del recorrido coquimbo a la tumba](mapa distancia.png) por laguna razón no funciona.
