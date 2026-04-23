@@ -10,8 +10,8 @@
 
 - VISMOS CÓMO ORDENAR EL GITHUB
 - VIMOS CÓMO PREGUNTARLE ALGO A CHATGPT, EL PROFE RECOMIENDA USAR CLAUD.
--VIMOS Referentes
-el museo de papel de Alfredo Jaar
-Artista uruguayo del net art y sonido
-Aruma, artista vsisual textil.
+- VIMOS Referentes
+  - el museo de papel de Alfredo Jaar
+  - Artista uruguayo del net art y sonido
+  - Aruma, artista vsisual textil.
 
