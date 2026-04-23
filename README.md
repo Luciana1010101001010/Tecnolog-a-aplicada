@@ -1,5 +1,9 @@
-# Tecnologia aplicada
-Bitácora del curso...
+# Objeto-Luciana
+
+Encontrarás:
+
+- Proyectos 
+- Clases
  
 ## Libros
 
