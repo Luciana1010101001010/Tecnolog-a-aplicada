@@ -14,4 +14,6 @@
   - el museo de papel de Alfredo Jaar
   - Artista uruguayo del net art y sonido
   - Aruma, artista vsisual textil.
-
+# Entrega Prox Semana
+Prox semana repositorio ordernado
+Investigra sobre hambre hambre hambre
