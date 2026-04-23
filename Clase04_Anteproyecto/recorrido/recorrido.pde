@@ -1,3 +1,5 @@
+```processing
+
 Table tabla;
 
 float[] xs;
@@ -134,4 +136,4 @@ void draw() {
     textSize(24);
     text(palabraActual, x, y);
   }
-}
+}```

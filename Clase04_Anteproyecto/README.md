@@ -50,5 +50,5 @@ Visualización basada en un recorrido entre Coquimbo y el Valle del Elqui.
 
 El sistema utiliza datos de distancia y altura para construir una secuencia de palabras en movimiento.
 
-El código se encuentra 
+El código se encuentra en [recorrido](./recorrido/recorrido.pde)
 
