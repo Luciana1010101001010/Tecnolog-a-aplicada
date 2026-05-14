@@ -12,7 +12,7 @@ Este proyecto tiene por objetivo reconocer el silencio en el espacio urbano a pa
 * Propuestan de montaje: 3 Caja de luz con 3 imágenes.
 * Propuesta de regalo: Blog acerca del silencio. En donde se encuentren todas las imágenes encontradas. A su vez, cumpliendo la función del blog como plataforma de bitácora íntima, collage de pensamiento. Realizaremos una práctica reflexiva en conjunto acerca del silencio, añadiendo escrituras personales, ect.
 ---
-# Desarrollo
+
 
 
 ## Borrado, mancha, silencio
@@ -28,7 +28,7 @@ El propósito de esta investigación es realizar un recorrido visual por la call
 ![Borrado de grafiti sobre puerta](/Imagenes/silencio_grafiti_1.jpeg)
 
 
-## Propuesta de montaje, MVP.
+### Propuesta de montaje, MVP.
 
 El mentaje en situ de este proyecto consiste en seleccionar tres cajas de luz en donde se proyectarán las imágenes. Están situadas en el patio del Museo de Violeta Parra. 
 
