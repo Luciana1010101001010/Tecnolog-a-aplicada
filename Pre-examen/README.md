@@ -11,9 +11,11 @@ Este proyecto tiene por objetivo reconocer el silencio en el espacio urbano a pa
 * Propuesta de regalo: Blog acerca del silencio. En donde se encuentren todas las imágenes encontradas. A su vez, cumpliendo la función del blog como plataforma de bitácora íntima, collage de pensamiento. Realizaremos una práctica reflexiva en conjunto acerca del silencio, añadiendo escrituras personales, ect.
 ---
 # Desarrollo
+
+
 ## Borrado, mancha, silencio
 
-El objeto que se esturdiará son las manchas producidas por el acto de borrar los escritos sobre las murallas de Santiago. Para ello se tomará com punto de referencia el Museo de Violeta Parra, quien además de llevar el nombre de una artista chilena con voz política, poética y revelde, se sitúa en una calle muy concurrida, siendo escenario de las marchas en Santiago. 
+El objeto que se esturdiará son las manchas producidas por el acto de borrar los escritos sobre las murallas de Santiago. Para ello se tomará com punto de referencia el Museo de Violeta Parra, que además de llevar el nombre de una artista chilena con voz política, poética y revelde, se sitúa en una calle muy concurrida, siendo escenario de las marchas en Santiago. 
 
 A raíz de esto, el proyecto considera dar con aquellos escritos que yacen bajo una capa de pintura capturándolo mediante la fotografía.
 
@@ -24,9 +26,9 @@ El propósito de esta investigación es realizar un recorrido visual por la call
 ![Borrado de grafiti sobre puerta](/Imagenes/silencio_grafiti_1.jpeg)
 
 
-### Propuesta de montaje, MVP.
+## Propuesta de montaje, MVP.
 
-De todo el archivo recolectado se seleccionarán tres imágenes que irán en unas cajas de luz, los cuales se pondrán en el patio del Museo Viola Parra.
+De todo el archivo recolectado se seleccionarán tres imágenes que irán en unas cajas de luz, los cuales se pondrán en el patio del Museo Violeta Parra.
  
 ## El blog como un desplazamiento del fanzine.
 
