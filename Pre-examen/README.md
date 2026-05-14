@@ -1,4 +1,6 @@
 # Pre Examen: "El silencio de los grafitis"
+
+              Jorge Arancibian | Victoria Alvayai | Luciana Meléndez 
   
 Este proyecto tiene por objetivo reconocer el silencio en el espacio urbano a partir del borrado de las intervenciones presentes en los muros públicos. A través de este gesto, se busca evidenciar una tensión propia de la ciudad contemporánea desde una aproximación poética y sensible, invitando a reflexionar, vivenciar y experimentar el silencio como una condición aparentemente imposible dentro del entorno urbano que, paradójicamente, parece manifestarse mediante la acción de cubrir, borrar y superponer capas de pintura sobre los muros. A partir de este gesto, se desarollará un registro visual de estos muros,a su vez que se desplegará un conjunto de escritos, experiencias, cuentos y contemplaciones, que permitan volver a pensar y sentir el silencio desde un ejercicio colectivo, humano y necesario.
 
@@ -6,7 +8,7 @@ Este proyecto tiene por objetivo reconocer el silencio en el espacio urbano a pa
 
 * Objeto: Borrado de los grafitis
 * Datos: Las imáges recopiladas de los grafitis tapados.
-* Procedimiento: Generar un registro fotográfico de las intervenciones a los grafitis, estableciendo como punto de referencia el Museo de Violeta Parra, por lo que, se tiene considerado abarcar los siguientes lugares para generar un estudio de la zona: metro Baquedano, Plaza de armas, Salvador, Bellas artes, Parque Bustamente y Santa Isabel.  
+* Procedimiento: Generar un registro fotográfico de las intervenciones a los grafitis, estableciendo como punto de referencia el Museo de Violeta Parra. 
 * Propuestan de montaje: 3 Caja de luz con 3 imágenes.
 * Propuesta de regalo: Blog acerca del silencio. En donde se encuentren todas las imágenes encontradas. A su vez, cumpliendo la función del blog como plataforma de bitácora íntima, collage de pensamiento. Realizaremos una práctica reflexiva en conjunto acerca del silencio, añadiendo escrituras personales, ect.
 ---
@@ -15,21 +17,21 @@ Este proyecto tiene por objetivo reconocer el silencio en el espacio urbano a pa
 
 ## Borrado, mancha, silencio
 
-El objeto que se esturdiará son las manchas producidas por el acto de borrar los escritos sobre las murallas de Santiago. Para ello se tomará com punto de referencia el Museo de Violeta Parra, que además de llevar el nombre de una artista chilena con voz política, poética y revelde, se sitúa en una calle muy concurrida, siendo escenario de las marchas en Santiago. 
+El objeto que se esturdiará son las manchas producidas por el acto de borrar los escritos sobre las murallas de Santiago. Para ello se tomará com punto de referencia el Museo de Violeta Parra se sitúa en una calle muy concurrida, siendo escenario de las marchas en Santiago. Se abarcarán los siguientes lugares para generar un estudio de la zona: metro Baquedano, Plaza de armas, Salvador, Bellas artes, Parque Bustamente y Santa Isabel. A raíz de esto, el proyecto considera dar con aquellos escritos que yacen bajo una capa de pintura capturándolo mediante la fotografía. De esta forma el procedimiento 
 
-A raíz de esto, el proyecto considera dar con aquellos escritos que yacen bajo una capa de pintura capturándolo mediante la fotografía.
+El propósito de esta investigación es realizar un recorrido visual por la calle y sus tensiones, mediante una tipología fotográfica de las manchas presentes en los muros urbanos, las cuales remiten simbólicamente a la forma del silencio.
 
 ![Borrado de grafiti sobre muro](/Imagenes/silencio_grafiti_2.jpeg)
 
-El propósito de esta investigación es realizar un recorrido visual por la calle y sus tensiones, mediante una tipología fotográfica de las manchas presentes en los muros urbanos, las cuales remiten simbólicamente a la forma del silencio.
+
 
 ![Borrado de grafiti sobre puerta](/Imagenes/silencio_grafiti_1.jpeg)
 
 
 ## Propuesta de montaje, MVP.
 
-De todo el archivo recolectado se seleccionarán tres imágenes que irán en unas cajas de luz, los cuales se pondrán en el patio del Museo Violeta Parra.
- 
+El mentaje en situ de este proyecto consiste en seleccionar tres cajas de luz en donde se proyectarán las imágenes. Están situadas en el patio del Museo de Violeta Parra. 
+
 ## El blog como un desplazamiento del fanzine.
 
 ### ¿Qué es un fanzine?
@@ -40,11 +42,6 @@ Un fanzine se define como un medio independiente mediante el cual cualquier pers
 
 En este sentido, los fanzines surgieron, en gran medida, desde la necesidad de comunicar y de aprovechar los recursos disponibles, aunque estos fueran mínimos o precarios. Sin embargo, esta condición no disminuye su valor; por el contrario, evidencia un deseo genuino de compartir experiencias, pensamientos y creaciones personales, generando vínculos con otros desde la autenticidad, la autonomía y la libertad creativa.
 
-Concpetos aledaños:
-* autogestión
-* sin fines de lucro
-* comunidad
-* Información
 
 ### El blog, un nuevo fanzine 
 
