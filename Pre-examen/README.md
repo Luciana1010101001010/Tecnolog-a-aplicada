@@ -7,7 +7,7 @@ Este proyecto tiene por objetivo reconocer el silencio en el espacio urbano a pa
 * Objeto: Borrado de los grafitis
 * Datos: Las imáges recopiladas de los grafitis tapados.
 * Procedimiento: Generar un registro fotográfico de las intervenciones a los grafitis, estableciendo como punto de referencia el Museo de Violeta Parra, por lo que, se tiene considerado abarcar los siguientes lugares para generar un estudio de la zona: metro Baquedano, Plaza de armas, Salvador, Bellas artes, Parque Bustamente y Santa Isabel.  
-* Propuestan de montaje: 3 Caja de luz con 3 imágenes de toda la recolección de fotos.
+* Propuestan de montaje: 3 Caja de luz con 3 imágenes.
 * Propuesta de regalo: Blog acerca del silencio. En donde se encuentren todas las imágenes encontradas. A su vez, cumpliendo la función del blog como plataforma de bitácora íntima, collage de pensamiento. Realizaremos una práctica reflexiva en conjunto acerca del silencio, añadiendo escrituras personales, ect.
 ---
 # Desarrollo
