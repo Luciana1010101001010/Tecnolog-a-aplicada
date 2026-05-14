@@ -32,6 +32,8 @@ De todo el archivo recolectado se seleccionarán tres imágenes que irán en una
 
 ### ¿Qué es un fanzine?
 
+![](/Imagenes/fanzines.avif)
+
 Un fanzine se define como un medio independiente mediante el cual cualquier persona puede expresar ideas, intereses o reflexiones en torno a un tema determinado. Su principal valor radica en la ausencia de reglas estrictas o censura, permitiendo que cada creador pueda producirlo libremente desde su propio espacio y otorgarle la forma que desee. En este contexto, el fanzine puede construir una narrativa propia e incorporar elementos íntimos, personales y subjetivos, así como opiniones sobre política, cultura o experiencias cotidianas, configurando una estética singular que responde a formas de expresión autónomas, libres y comunitarias.
 
 En este sentido, los fanzines surgieron, en gran medida, desde la necesidad de comunicar y de aprovechar los recursos disponibles, aunque estos fueran mínimos o precarios. Sin embargo, esta condición no disminuye su valor; por el contrario, evidencia un deseo genuino de compartir experiencias, pensamientos y creaciones personales, generando vínculos con otros desde la autenticidad, la autonomía y la libertad creativa.
@@ -56,7 +58,5 @@ De esta forma, el proyecto busca retribuir a la editorial HAMBRE HAMBRE HAMBRE m
 
 Link de blog: https://silencio-cff6b7.webflow.io/
 
-
-
-Queremos incluir un blog que hable del silencio, que vuelva a reivindicar su importancia y su ejercicio como una práctica refelxiva, poéctica, íntima, contemplativa y por sobre todo cradora.
+Queremos aportar con un blog que hable del silencio, que vuelva a reivindicar su importancia y su ejercicio como una práctica refelxiva, poéctica, íntima, contemplativa y por sobre todo necesaria.
 
