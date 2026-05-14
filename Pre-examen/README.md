@@ -1,4 +1,4 @@
-# Pre Examen: "El silencio de los grafitis"
+# Pre Examen: "La forma del silencio"
 
               Jorge Arancibian | Victoria Alvayay | Luciana Meléndez 
   
@@ -30,7 +30,7 @@ El propósito de esta investigación es realizar un recorrido visual por la call
 
 ### Propuesta de montaje, MVP.
 
-El mentaje en situ de este proyecto consiste en seleccionar tres cajas de luz en donde se proyectarán las imágenes. Están situadas en el patio del Museo de Violeta Parra. 
+Será una pantalla, serán solo las formas de los cuadrados pintados, será un libro de fotografía? 
 
 ## El blog como un desplazamiento del fanzine.
 
