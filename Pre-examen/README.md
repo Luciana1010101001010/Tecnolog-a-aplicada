@@ -13,6 +13,8 @@ Este proyecto tiene por objetivo reconocer el silencio en el espacio urbano a pa
 # Desarrollo
 ## Borrado, mancha, silencio
 
+![](Imagenes/)
+
  
 ## El blog como un desplazamiento del fanzine.
 
