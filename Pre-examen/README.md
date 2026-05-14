@@ -21,7 +21,7 @@ A raíz de esto, el proyecto considera dar con aquellos escritos que yacen bajo 
 
 El propósito de esta investigación es realizar un recorrido visual por la calle y sus tensiones, mediante una tipología fotográfica de las manchas presentes en los muros urbanos, las cuales remiten simbólicamente a la forma del silencio.
 
-![Borrado de grafiti sobre puerta](/Imagenes/silencio_grafiti_1.jpeg) ![Borrado de grafiti sobre muro](/Imagenes/silencio_grafiti_2.jpeg)
+![Borrado de grafiti sobre puerta](/Imagenes/silencio_grafiti_1.jpeg)
 
 
 ### Propuesta de montaje, MVP.
