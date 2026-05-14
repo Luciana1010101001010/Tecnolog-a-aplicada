@@ -5,6 +5,7 @@ Encontrarás:
 ## Proyectos 
 
 - [Recorrido hacia la tumba diguita](Clase04_Anteproyecto/README.md)
+- [Pre examen](Pre-examen/README.md)
 ## Clases
 En carpetas numeradas 
 ## Libros
