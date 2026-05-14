@@ -46,6 +46,8 @@ Concpetos aledaños:
 
 ### El blog, un nuevo fanzine 
 
+
+
 Indagando en la definición de fanzine, es posible encontrar una serie de paralelismos con el blog —formato ampliamente utilizado durante los años 2000— y que posteriormente derivaría en muchas de las dinámicas presentes en las redes sociales actuales. Estos espacios digitales, caracterizados por interfaces intuitivas y accesibles, permitían a las personas desarrollar una escritura libre, íntima y temática, donde era posible opinar, reflexionar, registrar experiencias cotidianas o construir una especie de bitácora personal. A partir de estas prácticas, también se generaban comunidades articuladas en torno a intereses, sensibilidades y experiencias compartidas.
 
 Desde esta perspectiva, el blog puede comprenderse como un desplazamiento contemporáneo del fanzine hacia un nuevo lenguaje tecnológico, capaz de responder a otras formas de interacción y comunicación. Sin embargo, pese a los cambios de soporte y formato, ambos conservan una misma esencia: la necesidad de expresarse de manera autónoma, libre y comunitaria.
