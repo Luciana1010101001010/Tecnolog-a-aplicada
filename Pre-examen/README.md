@@ -11,6 +11,7 @@ Este proyecto tiene por objetivo reconocer el silencio en el espacio urbano a pa
 * Propuesta de regalo: Blog acerca del silencio. En donde se encuentren todas las imágenes encontradas. A su vez, cumpliendo la función del blog como plataforma de bitácora íntima, collage de pensamiento. Realizaremos una práctica reflexiva en conjunto acerca del silencio, añadiendo escrituras personales, ect.
 ---
 # Desarrollo
+## Borrado, mancha, silencio
 
  
 ## El blog como un desplazamiento del fanzine.
