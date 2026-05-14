@@ -32,11 +32,9 @@ De todo el archivo recolectado se seleccionarán tres imágenes que irán en una
 
 ### ¿Qué es un fanzine?
 
-Un fanzine se define como un medio independiente a través del cual cualquier persona puede expresar ideas, intereses o reflexiones sobre un tema determinado. Su principal valor radica en la ausencia de reglas estrictas o censura, lo que permite que cada creador pueda producirlo libremente desde su propio espacio y otorgarle la forma que desee.
+Un fanzine se define como un medio independiente mediante el cual cualquier persona puede expresar ideas, intereses o reflexiones en torno a un tema determinado. Su principal valor radica en la ausencia de reglas estrictas o censura, permitiendo que cada creador pueda producirlo libremente desde su propio espacio y otorgarle la forma que desee. En este contexto, el fanzine puede construir una narrativa propia e incorporar elementos íntimos, personales y subjetivos, así como opiniones sobre política, cultura o experiencias cotidianas, configurando una estética singular que responde a formas de expresión autónomas, libres y comunitarias.
 
-Desde una perspectiva contemporánea, el concepto de fanzine no se limita únicamente a lo tangible o impreso. También puede entenderse como una práctica cercana a los blogs de los años 2000, en los que las personas escribían a modo de bitácora personal sobre sus experiencias, pensamientos e intereses.
-
-Asimismo, se considera que los fanzines surgieron, en gran medida, de la necesidad de comunicar y de aprovechar los recursos disponibles, aunque estos fueran mínimos. Esta condición precaria no disminuye su valor; por el contrario, evidencia un deseo genuino de compartir experiencias, pensamientos o creaciones personales, estableciendo conexiones con otros desde la autenticidad y la libertad creativa.
+En este sentido, los fanzines surgieron, en gran medida, desde la necesidad de comunicar y de aprovechar los recursos disponibles, aunque estos fueran mínimos o precarios. Sin embargo, esta condición no disminuye su valor; por el contrario, evidencia un deseo genuino de compartir experiencias, pensamientos y creaciones personales, generando vínculos con otros desde la autenticidad, la autonomía y la libertad creativa.
 
 Concpetos aledaños:
 * autogestión
@@ -46,7 +44,7 @@ Concpetos aledaños:
 
 ### El blog, un nuevo fanzine 
 
-
+![portada blog](/Imagenes/blog_silencio.png)
 
 Indagando en la definición de fanzine, es posible encontrar una serie de paralelismos con el blog —formato ampliamente utilizado durante los años 2000— y que posteriormente derivaría en muchas de las dinámicas presentes en las redes sociales actuales. Estos espacios digitales, caracterizados por interfaces intuitivas y accesibles, permitían a las personas desarrollar una escritura libre, íntima y temática, donde era posible opinar, reflexionar, registrar experiencias cotidianas o construir una especie de bitácora personal. A partir de estas prácticas, también se generaban comunidades articuladas en torno a intereses, sensibilidades y experiencias compartidas.
 
