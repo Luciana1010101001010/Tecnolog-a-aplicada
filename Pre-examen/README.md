@@ -1,4 +1,4 @@
-# Pre Examen: "La forma del silencio"
+# Pre Examen: "La forma del silencio" 
 
               Jorge Arancibian | Victoria Alvayay | Luciana Meléndez 
   
@@ -30,7 +30,7 @@ El propósito de esta investigación es realizar un recorrido visual por la call
 
 ### Propuesta de montaje, MVP.
 
-Será una pantalla, serán solo las formas de los cuadrados pintados, será un libro de fotografía? 
+Realizarémos un libro de artista utilizando las imágenes recopiladas del silencio. La opreación será enfatizar en los cuadrados pintados sobre las fachadas utilizando impresiones sobre tela, generando "parches". La idea es confeccionar un libro que recopile todos estos parches.   
 
 ## El blog como un desplazamiento del fanzine.
 
@@ -58,4 +58,5 @@ De esta forma, el proyecto busca retribuir a la editorial HAMBRE HAMBRE HAMBRE m
 Link de blog: https://silencio-cff6b7.webflow.io/
 
 Queremos aportar con un blog que hable del silencio, que vuelva a reivindicar su importancia y su ejercicio como una práctica refelxiva, poéctica, íntima, contemplativa y por sobre todo necesaria.
+
 
