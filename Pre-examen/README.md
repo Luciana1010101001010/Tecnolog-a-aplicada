@@ -56,7 +56,6 @@ En este sentido, el fanzine no se define únicamente por su materialidad impresa
 De esta forma, el proyecto busca retribuir a la editorial HAMBRE HAMBRE HAMBRE mediante un gesto que invita a pensar el fanzine como un dispositivo vivo, capaz de transformarse y desplazarse entre distintos lenguajes y soportes sin perder su esencia. Más que un objeto fijo, el fanzine aparece aquí como una práctica sensible de resistencia, memoria y comunicación colectiva.
 
 Link de blog: https://silencio-cff6b7.webflow.io/
-
-Queremos aportar con un blog que hable del silencio, que vuelva a reivindicar su importancia y su ejercicio como una práctica refelxiva, poéctica, íntima, contemplativa y por sobre todo necesaria.
+.
 
 
