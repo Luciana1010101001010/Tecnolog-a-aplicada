@@ -11,6 +11,6 @@ Objetivos:
 
   Operaciones:
 - Recopilar imágenes de grafitis borrados.
-- Generar un recorrido cercano al MVP.
+- Generar un recorrido de los alredores del MVP
 - Capturar la forma de los grafitis pintados en un fanzine: "parches".
 ![Foto](/Imagenes/Captura%20de%20pantalla%202026-06-04%20014529.pngtecnolog-a-aplicada/imagn)
