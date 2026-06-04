@@ -58,4 +58,6 @@ De esta forma, el proyecto busca retribuir a la editorial HAMBRE HAMBRE HAMBRE m
 Link de blog: https://silencio-cff6b7.webflow.io/
 .
 
+Queremos aportar con un blog que hable del silencio, que vuelva a reivindicar su importancia y su ejercicio como una práctica refelxiva, poéctica, íntima, contemplativa y por sobre todo necesaria.
+
 
