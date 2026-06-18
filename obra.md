@@ -7,5 +7,5 @@ Mediante la intervención con hilo, las fotografías son transformadas en una co
 Medidas 30x40cm
 
 ![prototipo](./prototipo.png)
-![prototipo](./fanzineprototipo.jpeg)
+![prototipo](./fanzineprototitpo.jpeg)
 
