@@ -5,4 +5,4 @@ La forma del silencio es un fanzine de fotografía y bordado inspirado en el tra
 Mediante la intervención con hilo, las fotografías son transformadas en una colección de silencios imaginarios que invitan a la contemplación y a una mirada más atenta sobre el paisaje cotidiano.
 
 
-![alt text](/)
+img scr= 
