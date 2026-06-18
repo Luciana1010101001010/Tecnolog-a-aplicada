@@ -8,3 +8,4 @@ Medidas 30x40cm
 
 ![prototipo](./prototipo.png)
 ![prototipo](./fanzineprototipo.jpeg)
+
